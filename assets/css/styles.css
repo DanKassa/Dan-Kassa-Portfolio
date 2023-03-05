@@ -339,6 +339,13 @@ img {
   border-radius: .5rem;
 }
 
+.skills__figma{
+  width: 99%;
+}
+
+.skills__react{
+  width: 90%;
+}
 /* ===== WORK =====*/
 .work__container {
   row-gap: 2rem;
